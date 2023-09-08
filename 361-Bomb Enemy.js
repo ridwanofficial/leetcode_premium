@@ -1,0 +1,12 @@
+/*
+
+we can store all w and sort them on row or col 
+that can help to determine any blocking 
+
+
+
+
+
+
+
+*/
